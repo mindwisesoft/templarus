@@ -1,0 +1,11 @@
+Templarus allows you to create templates that can be reused in order to keep your ideas organized. Using the templates you create in Templarus, you can instantly keep your ideas organized, and immediately accessible with a rapid search capability.
+
+Create a work in Templarus:
+
+1. Create a reusable template.
+2. Decide which text will be static and which will be editable (when you add a template to your work).
+3. Create a work.
+4. Choose one of your created templates to add to it.
+5. Templarus will automatically step through the areas to fill in text as you select "Next". After the last text area to fill in, the filled in template will be added.
+6. If you need to edit any items, select the ones to edit.
+7. Save to complete.
